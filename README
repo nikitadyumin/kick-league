@@ -1,0 +1,14 @@
+This is your new Play application
+=================================
+
+This file will be packaged with your application, when using `activator dist`.
+
+
+To run "kick-league" from the command line, "cd kick-league" then:
+C:\repos\kick-league/activator run
+
+To run the test for "kick-league" from the command line, "cd kick-league" then:
+C:\repos\kick-league/activator test
+
+To run the Activator UI for "kick-league" from the command line, "cd kick-league" then:
+C:\repos\kick-league/activator ui
